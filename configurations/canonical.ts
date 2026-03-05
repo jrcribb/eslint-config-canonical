@@ -1,6 +1,6 @@
+import eslintComments from '@eslint-community/eslint-plugin-eslint-comments';
 import stylisticPlugin from '@stylistic/eslint-plugin';
 import canonicalPlugin from 'eslint-plugin-canonical';
-import eslintComments from 'eslint-plugin-eslint-comments';
 import importPlugin from 'eslint-plugin-import';
 import perfectionist, {
   configs as perfectionistConfigs,
